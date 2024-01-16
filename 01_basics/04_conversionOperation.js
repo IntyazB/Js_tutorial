@@ -17,3 +17,8 @@ let a2=123;
 let a3=Boolean(a2);
 console.log(typeof a3);
 console.log(a3);
+
+let a4=55;
+let a5 = String(a4);
+console.log(typeof a5);
+console.log(a5);
